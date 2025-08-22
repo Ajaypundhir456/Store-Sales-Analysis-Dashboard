@@ -1,6 +1,6 @@
-## Online-Sales-Analytics-Dashboard
+## Store-Sales-Analysis-Dashboard
 
-[Data Set](https://github.com/Ajaypundhir456/Online-Sales-Analytics-Dashboard/blob/main/Power%20BI.xlsx)
+[Data Set](https://github.com/Ajaypundhir456/Store-Sales-Analysis-Dashboard/blob/main/JJ%20Sales%20Data.xlsx)
 
 ## 🚀 Project Overview
 This interactive dashboard visualizes and analyzes key sales metrics for Store eyewear sales. Built using Power BI, it includes:.
@@ -36,7 +36,7 @@ This interactive dashboard visualizes and analyzes key sales metrics for Store e
 * ✅ **Frame Type Orders** breakdown (Full Rim, SG, Rimless, Half Rim)
 * ✅ **Quarterly Performance** with growth trends across years
 
-  ![Store Sales analytics Dashboard](https://github.com/Ajaypundhir456/Store-Sales-Analysis-Dashboard/blob/main/Offline%20Sales.jpg)
+  ![Store Sales analysis Dashboard](https://github.com/Ajaypundhir456/Store-Sales-Analysis-Dashboard/blob/main/Offline%20Sales.jpg)
 
 
 ## 📬 Contact
