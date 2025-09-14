@@ -36,7 +36,8 @@ This interactive dashboard visualizes and analyzes key sales metrics for Store e
 * ✅ **Frame Type Orders** breakdown (Full Rim, SG, Rimless, Half Rim)
 * ✅ **Quarterly Performance** with growth trends across years
 
-  ![Store Sales analysis Dashboard](https://github.com/Ajaypundhir456/Store-Sales-Analysis-Dashboard/blob/main/Offline%20Sales.jpg)
+
+  ![Store Sales analysis Dashboard](https://github.com/user-attachments/assets/5c0c5a2e-4c18-49ce-99c6-67b2c8baaa21)
 
 
 ## 📬 Contact
